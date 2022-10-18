@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QasimKhan051
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Js,Python,Dart,Sql
+- 🌱 I’m currently learning JS,Python,Dart and more...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qasimkhanafridiofficial@gmail.com
 
